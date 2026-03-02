@@ -9,12 +9,6 @@ A C++ application that uses a structured database to design and export professio
 **Invoice-Printer** is a desktop application built with C++ that helps businesses generate well-formatted sales invoices efficiently.  
 The program integrates a structured product database with a modern bilingual user interface, allowing users to create, manage, and export invoices in seconds.
 
-This project demonstrates practical use of:
-- Database integration
-- PDF file generation
-- GUI development
-- Clean software architecture principles
-
 ---
 
 ## ✨ Features
@@ -73,22 +67,9 @@ This project demonstrates practical use of:
 
 ---
 
-## 🎯 Project Goals
-
-- Simplify invoice generation for small businesses
-- Demonstrate integration of:
-  - Database systems
-  - File generation
-  - GUI design in C++
-- Provide a clean, maintainable software structure
-
----
-
 ## 📈 Future Improvements
 
 - Customer database integration
 - Invoice history tracking
 - Multi-currency support
 - Customizable invoice templates
-
----
