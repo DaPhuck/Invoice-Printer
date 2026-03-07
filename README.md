@@ -1,13 +1,13 @@
 # 🧾 Invoice-Printer
 
-A C++ application that uses a structured database to design and export professional **A4-size PDF sales invoices** with a clean, modern interface.
+A C++ application that designs and exports professional **A4-size PDF sales invoices** with a clean, modern interface.
 
 ---
 
 ## 📌 Overview
 
 **Invoice-Printer** is a desktop application built with C++ that helps businesses generate well-formatted sales invoices efficiently.  
-The program integrates a structured product database with a modern bilingual user interface, allowing users to create, manage, and export invoices in seconds.
+The program comes with a modern bilingual user interface, allowing users to create, manage, and export invoices in seconds.
 
 ---
 
@@ -23,15 +23,6 @@ The program integrates a structured product database with a modern bilingual use
   - Pricing breakdown
   - Total calculations
 - Ready-to-print output
-
----
-
-### 🗂 Structured Product Database
-- Built-in structured database for managing product names
-- Quick-fill feature:
-  - Automatically suggest popular product to select to:
-    - Reduce repetitive manual typing
-    - Minimize human error
 
 ---
 
@@ -60,7 +51,7 @@ The program integrates a structured product database with a modern bilingual use
 3. Enter customer information.
 4. Add products using:
    - Manual input, or
-   - Quick-fill from database.
+   - Quick-fill from saved products.
 5. The system automatically calculates totals.
 6. Export the invoice as an A4-size PDF file.
 7. Print or send the generated invoice.
@@ -69,7 +60,6 @@ The program integrates a structured product database with a modern bilingual use
 
 ## 📈 Future Improvements
 
-- Customer database integration
 - Invoice history tracking
 - Multi-currency support
 - Customizable invoice templates
